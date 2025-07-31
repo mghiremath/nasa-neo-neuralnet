@@ -84,5 +84,3 @@ Predicts if an asteroid is "potentially hazardous" using real NASA data.
 **Run the notebook [`nasa-neo.ipynb`](nasa-neo.ipynb) to see all code and comparisons!**
 
 ---
-
-_Project by [Your Name]_
