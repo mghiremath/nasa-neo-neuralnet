@@ -1,6 +1,6 @@
 # Hazardous Asteroid Classification
 
-Predicts if an asteroid is "potentially hazardous" using real NASA data.
+Predicts if an asteroid is "potentially hazardous" using real NASA data. This is an extension of previous nasa-neo project in my GitHub.
 
 ---
 
